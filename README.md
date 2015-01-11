@@ -1,5 +1,5 @@
 # networkx_for_unicode
-This is for unicode label.
+This is for unicode label of networkx(http://networkx.github.io/)
 
 ## Modified files
 networkx-1.9.1/networkx/drawing/nx_pylab.py
