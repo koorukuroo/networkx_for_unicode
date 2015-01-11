@@ -4,6 +4,11 @@ This is for unicode label.
 ## Modified files
 networkx-1.9.1/networkx/drawing/nx_pylab.py
 
+## Install
+```python
+pip install --upgrade git+https://github.com/koorukuroo/networkx_for_unicode
+```
+
 ## Usage
 ```python
 import matplotlib.font_manager as fm
